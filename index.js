@@ -50,7 +50,7 @@ module.exports = {
         ],
         pathGroupsExcludedImportTypes: ['react'],
         alphabetize: { order: 'asc', caseInsensitive: true },
-        newlines-between: 'never' // ✅ SEM QUEBRA ENTRE GRUPOS
+        'newlines-between': 'never' // ✅ SEM QUEBRA ENTRE GRUPOS
       }
     ],
     'import/no-unresolved': 'error',
