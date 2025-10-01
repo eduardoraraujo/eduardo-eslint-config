@@ -2,12 +2,6 @@
 
 Config ESLint + Prettier pra TS/React.
 
-### Instalação
-
-```bash
-pnpm add -D @eduardotools/eslint-config eslint @typescript-eslint/parser @typescript-eslint/eslint-plugin eslint-plugin-prettier eslint-config-prettier eslint-plugin-react eslint-plugin-react-hooks eslint-plugin-import eslint-import-resolver-typescript
-```
-
 ### Configuração
 
 Crie `eslint.config.js` na raiz do seu projeto:
